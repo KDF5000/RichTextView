@@ -1,0 +1,2 @@
+# RichTextView
+一个基于Android原生TextView的富文本组件，解析Html格式的文本内容并进行显示
